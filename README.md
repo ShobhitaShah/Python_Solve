@@ -11,12 +11,14 @@ This repository is for beginner who want to start solving questions from basics.
 
 ## Happy Learning
 
-#### Chapter_1
+#### Challenge_1
 * It has basic questions and concepts related to input from the user.
 
-#### Chapter_2
+#### Challenge_2
 * It has foundation of python related questions.
 
-#### Chapter_3
+#### Challenge_3 
 * It has questions related to string.
-* Day_4 has questions related to string manipulation to one level up.
+
+#### Challenge_4
+* It has questions related to string manipulation to one level up.
