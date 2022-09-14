@@ -22,3 +22,9 @@ This repository is for beginner who want to start solving questions from basics.
 
 #### Challenge_4
 * It has questions related to string manipulation to one level up.
+
+#### Challenge_5
+* It has script for automation of csv.
+
+#### CHallenge_6
+* It has script for automation of excel.
